@@ -37,7 +37,7 @@ def kriva():
             y1=y+1
             print (x)
             print (y)
-            w.create_line(x,y,x1,y1) #IM DOOING THIS THIS WAY BECAUSE I DONT KNOW ANY OTHER    WAY TO DRAW CURVE :)
+            w.create_line(x,y,x1,y1) 
 
 kriva()
 mainloop()
