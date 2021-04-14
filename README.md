@@ -9,7 +9,6 @@ master=Tk()
 
 w=Canvas(master,width=800,height=800)
 
-
 w.pack()
 
 def kriva():
